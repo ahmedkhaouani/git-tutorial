@@ -1,0 +1,204 @@
+    1  python3
+    2  exit() python3 test.py
+    3  python3
+    4  cd
+    5  python3
+    6  sudo find / -iname *mackeeper* -exec rm -rf {} \;
+    7  rm
+    8  sudo find / -iname *mackeeper* -exec rm -rf {} \;
+    9  help
+   10  help
+   11  help
+   12  elp
+   13  help
+   14  ùsd 3442 er polf smslr f 
+   15   ,gg,gdd
+   16  hlp
+   17  help
+   18   fvl
+   19  gelp
+   20  el
+   21   ppfpfpf
+   22  ZZZ
+   23  mer  wesh fati
+   24  hlep
+   25  help
+   26  hlep
+   27  hepl
+   28  help
+   29  fff
+   30  ,help
+   31  elp
+   32  help
+   33  claer
+   34  lclaear
+   35  clear 
+   36  help
+   37  big data ms dos dferm 
+   38  ccc++ 
+   39  help
+   40  help
+   41  help
+   42  command
+   43  clear
+   44  help
+   45  help
+   46  help
+   47  help
+   48  he
+   49  lphelp
+   50  help
+   51  hel
+   52  phelp
+   53  help
+   54  help
+   55  help
+   56  help
+   57  hel
+   58  gelrplv
+   59  v
+   60  fve
+   61  v
+   62  vv
+   63  v
+   64  vrtbf
+   65  b^ldfb
+   66  fdbc,lb
+   67  fdbl,bd
+   68  fbb
+   69  d,BDSBE
+   70  lds
+   71  shelp
+   72  hlep
+   73  help
+   74  clear
+   75  cela
+   76  r
+   77  ahmed khaouajn
+   78  <hekp
+   79  help
+   80  locan name popod pushd 
+   81  bash berf 
+   82  hystort soucrce filme name fecrà ‘{‘‘‘‘‘fjdk  fff d
+   83  help
+   84  offsert jobs name 
+   85  ewport delo
+   86  e 
+   87  <<//
+   88  help
+   89   
+   90  help
+   91  /usr/bin/clear; ssh -i '/Users/ahmedkhaouani/.bitnami/stackman/machines/xampp/ssh/id_rsa' -o StrictHostKeyChecking=no 'root@192.168.64.2'
+   92  cd Downloads/
+   93  wget 
+   94  wget https://raw.githubusercontent.com/HugoPoi/challenge_cooking_recipe/master/sample.sql
+   95  nano sample.sql
+   96  less sample.sql 
+   97  vim sample.sql 
+   98  vim sample.sql 
+   99  LS
+  100  CD
+  101  cd Doc
+  102  ll
+  103  ls
+  104  pwd
+  105  cd ..
+  106  cd Documents/
+  107  cd CookingRecipes/
+  108  ls
+  109  make
+  110  gcc
+  111  brew
+  112  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  113  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  114  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  115  clear
+  116  sudo /rcvboxdrv setup
+  117  sudo /sbin/rcvboxdrv setup
+  118  sudo /sbin/rcvboxdrv setupclear
+  119  clear
+  120  sudo /sbin/rcvboxdrv setupclear
+  121  sudo /sbin/rcvboxdrv setupclear
+  122  > java -version
+  123  java -version
+  124  quel javac
+  125  cd ~
+  126  javac example.java
+  127  clear
+  128  ahmedkhaouani/cours/java
+  129  cd ~ ahmedkhaouani/cours/java
+  130  cd ahmedkhaouani/cours/java
+  131  cd ~ahmedkhaouani/cours/java
+  132  javac example.jaca
+  133  javac example.java
+  134  javac example.java
+  135  javac example.java
+  136  java example
+  137  java example
+  138  javac Example.java
+  139  java Example
+  140  javac -d "." Example.java
+  141  java labs.one.parta.Example
+  142  cd ~ ahmedkhaouani/cours/java
+  143  cd ~ahmedkhaouani/cours/java
+  144  clear
+  145  cd ~ahmedkhaouani/cours/java
+  146  javac -d "." Example.java
+  147  sudo spctl --master-disable
+  148  python 3
+  149  ll
+  150  ls
+  151  clear
+  152  cd /etc
+  153  ls
+  154  find git
+  155  @
+  156  git
+  157  git status
+  158  lq -l
+  159  ls -l
+  160  git status
+  161  mkdir git-tutorial
+  162  cd git-tutorial/
+  163  git
+  164  clear
+  165  ll
+  166  ls
+  167  mkdir git-tutorial
+  168  ls
+  169  cd git-tutorial/
+  170  ls
+  171  git init
+  172  ls -al
+  173  nano .git/
+  174  touch test.txt echo 'Wesh la famille je suis Hamida' > test.txt
+  175  ls 
+  176  ls -a
+  177  rm Wesh\ la\ famille\ je\ suis\ Hamida 
+  178  rm echo 
+  179  ls
+  180  nano test.txt 
+  181  clear
+  182  touch test.txt echo "Wesh la famille je suis Hamida" > test.txt
+  183  ls
+  184  rm Wesh\ la\ famille\ je\ suis\ Hamida 
+  185  rm echo 
+  186  ls
+  187  echo "Je suis vien ici dans mon délire" > test.txt
+  188  ls
+  189  cat test.txt 
+  190  nano test.txt 
+  191  cat test.txt 
+  192  history
+  193  git add test.txt
+  194  git commit -m "Mon premier commit" test.txt 
+  195  git remote add origin https://github.com/ahmedkhaouani/git-tutorial.git
+  196  git push
+  197  git push origin master
+  198  git push origin master
+  199  git push origin master
+  200  history
+  201  clear
+  202  history.txt
+  203  touch history.txt
+  204  history > history.txt 
